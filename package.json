@@ -1,0 +1,34 @@
+{
+  "name": "keyframer.js",
+  "version": "0.0.1",
+  "description": "A unopinionated, framework-agnostic CSS-in-JS library with additional support for moving parts.",
+  "main": "lib/keyframer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav-misra/keyframer.js.git"
+  },
+  "keywords": [
+    "css-in-js",
+    "css",
+    "animations",
+    "keyframes",
+    "frontend",
+    "typescript"
+  ],
+  "author": "raghavm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghav-misra/keyframer.js/issues"
+  },
+  "homepage": "https://github.com/raghav-misra/keyframer.js#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
